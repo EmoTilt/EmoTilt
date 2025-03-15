@@ -1,7 +1,6 @@
 <h1 align="left">две тысячи седьмой</h1>
 <h3>Привет!</h3>
 <p>
-<i>Мой телеграм канал - https://t.me/EmoTilt</i>
 </p>
 <img src="https://count.getloli.com/get/@:EmoTilt?theme=asoul">
 <hr>
