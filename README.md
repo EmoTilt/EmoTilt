@@ -1,16 +1,30 @@
-## Hi there 👋
-
-<!--
-**EmoTilt/EmoTilt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="left">две тысячи седьмой</h1>
+<h3>Привет!</h3>
+<p>
+<i>Мой телеграм канал - https://t.me/EmoTilt</i>
+</p>
+<img src="https://count.getloli.com/get/@:EmoTilt?theme=asoul">
+<hr>
+    <div>
+        <h3>Владею:</h3>
+        <img src="https://skillicons.dev/icons?i=js,ts,bash&theme=dark" align="left" alt="skillicons.dev">
+        <p style="font-size: 18px">Активно пишу на этих языках<br><b>JavaScript</b> — мой первый язык программирования.</p>
+    </div>
+    <br>
+    <div>
+        <img src="https://skillicons.dev/icons?i=react,gulp,docker,nginx,vim&theme=dark" align="right" alt="skillicons.dev">
+        <h3>Использую эти технологии:</h3>
+        <p style="font-size: 18px">Они мне помогают с написанием кода, сборкой, развёртыванием проекта на сервере.<br><br><b>React</b> — мой первый веб-фреймворк.<br><b>Gulp</b> — использую для сборки несложных проектов, где фреймворк не требуется.<br><b>Vim</b> — мой редактор кода.<br><br>Всё остальное использую для поднятия и развёртывания на сервере.</p>
+    </div>
+    <hr>
+    <div style="margin-top: 10px;">
+        <h3>Также писал на:</h3>
+        <img src="https://skillicons.dev/icons?i=java,python,cs&perline=6&theme=dark" align="left" alt="skillicons.dev">
+        <p>У меня есть поверхностные знания этих языков. Я планирую глубже их изучить и начать активно применять на практике.</p>
+    </div>
+<hr>
+<div align="center">
+    
+    Написать мне:
+    • Дискорд: 2o07
+</div>
