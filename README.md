@@ -1,7 +1,7 @@
 <h1 align="left">две тысячи седьмой</h1>
 <h3>Привет!</h3>
 <p>
-    <i>Discord - **2o07**</i>
+    <i>Discord: 2o07</i>
 </p>
 <img src="https://count.getloli.com/get/@:EmoTilt?theme=asoul">
 <hr>
